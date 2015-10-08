@@ -10,6 +10,10 @@ menu:
 # Place your favicon.ico to /source directory.
 favicon: /favicon.ico
 
+# Avatar (put the image into next/source/images/)
+# can be any image format supported by web browsers (JPEG,PNG,GIF,SVG,..)
+avatar: /images/me.jpg
+
 # Set default keywords (Use a comma to separate)
 keywords: "Hexo,next"
 
